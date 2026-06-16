@@ -1,0 +1,7682 @@
+{
+  "1": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "1.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "2": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "2.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "3": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "3.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "4": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "4.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "5": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "5.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "6": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "6.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "7": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "7.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "8": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "8.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "9": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "9.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "10": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "10.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "11": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "11.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "12": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "12.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "13": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "13.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "14": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "14.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "15": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "15.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "16": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "16.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "17": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "17.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "18": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "18.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "19": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "19.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "20": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "20.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "21": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "21.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "22": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "22.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "23": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "23.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "24": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "24.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "25": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "25.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "26": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "26.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "27": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "27.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "28": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "28.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "29": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "29.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "30": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "30.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "31": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "31.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "32": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "32.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "33": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "33.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "34": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "34.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "35": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "35.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "36": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "36.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "37": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "37.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "38": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "38.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "39": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "39.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "40": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "40.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "41": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "41.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "42": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "42.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "43": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "43.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "44": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "44.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "45": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "45.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "46": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "46.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "47": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "47.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "48": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "48.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "49": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "49.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "50": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "50.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "51": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "51.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "52": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "52.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "53": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "53.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "54": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "54.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "55": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "55.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "56": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "56.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "57": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "57.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "58": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "58.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "59": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "59.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "60": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "60.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "61": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "61.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "62": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "62.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "63": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "63.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "64": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "64.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "65": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "65.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "66": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "66.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "67": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "67.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "68": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "68.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "69": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "69.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "70": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "70.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "71": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "71.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "72": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "72.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "73": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "73.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "74": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "74.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "75": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "75.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "76": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "76.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "77": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "77.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "78": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "78.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "79": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "79.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "80": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "80.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "81": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "81.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "82": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "82.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "83": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "83.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "84": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "84.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "85": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "85.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "86": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "86.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "87": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "87.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "88": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "88.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "89": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "89.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "90": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "90.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "91": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "91.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "92": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "92.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "93": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "93.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "94": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "94.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "95": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "95.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "96": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "96.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "97": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "97.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "98": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "98.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "99": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "99.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "100": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "100.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "101": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "101.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "102": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "102.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "103": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "103.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "104": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "104.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "105": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "105.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "106": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "106.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "107": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "107.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "108": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "108.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "109": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "109.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "110": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "110.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "111": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "111.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "112": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "112.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "113": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "113.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "114": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "114.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "115": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "115.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "116": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "116.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "117": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "117.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "118": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "118.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "119": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "119.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "120": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "120.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "121": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "121.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "122": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "122.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "123": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "123.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "124": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "124.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "125": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "125.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "126": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "126.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "127": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "127.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "128": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "128.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "129": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "129.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "130": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "130.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "131": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "131.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "132": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "132.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "133": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "133.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "134": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "134.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "135": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "135.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "136": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "136.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "137": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "137.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "138": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "138.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "139": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "139.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "140": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "140.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "141": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "141.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "142": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "142.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "143": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "143.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "144": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "144.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "145": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "145.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "146": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "146.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "147": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "147.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "148": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "148.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "149": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "149.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "150": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "150.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "151": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "151.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "152": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "152.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "153": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "153.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "154": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "154.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "155": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "155.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "156": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "156.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "157": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "157.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "158": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "158.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "159": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "159.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "160": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "160.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "161": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "161.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "162": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "162.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "163": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "163.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "164": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "164.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "165": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "165.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "166": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "166.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "167": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "167.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "168": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "168.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "169": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "169.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "170": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "170.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "171": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "171.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "172": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "172.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "173": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "173.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "174": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "174.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "175": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "175.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "176": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "176.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "177": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "177.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "178": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "178.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "179": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "179.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "180": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "180.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "181": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "181.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "182": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "182.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "183": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "183.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "184": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "184.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "185": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "185.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "186": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "186.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "187": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "187.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "188": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "188.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "189": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "189.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "190": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "190.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "191": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "191.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "192": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "192.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "193": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "193.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "194": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "194.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "195": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "195.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "196": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "196.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "197": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "197.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "198": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "198.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "199": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "199.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "200": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "200.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "201": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "201.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "202": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "202.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "203": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "203.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "204": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "204.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "205": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "205.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "206": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "206.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "207": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "207.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "208": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "208.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "209": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "209.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "210": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "210.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "211": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "211.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "212": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "212.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "213": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "213.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "214": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "214.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "215": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "215.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "216": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "216.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "217": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "217.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "218": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "218.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "219": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "219.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "220": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "220.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "221": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "221.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "222": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "222.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "223": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "223.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "224": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "224.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "225": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "225.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "226": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "226.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "227": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "227.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "228": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "228.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "229": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "229.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "230": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "230.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "231": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "231.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "232": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "232.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "233": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "233.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "234": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "234.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "235": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "235.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "236": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "236.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "237": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "237.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "238": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "238.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "239": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "239.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "240": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "240.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "241": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "241.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "242": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "242.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "243": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "243.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "244": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "244.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "245": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "245.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "246": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "246.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "247": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "247.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "248": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "248.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "249": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "249.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "250": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "250.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "251": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "251.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "252": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "252.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "253": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "253.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "254": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "254.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "255": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "255.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "256": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "256.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "257": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "257.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "258": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "258.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "259": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "259.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "260": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "260.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "261": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "261.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "262": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "262.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "263": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "263.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "264": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "264.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "265": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "265.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "266": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "266.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "267": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "267.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "268": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "268.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "269": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "269.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "270": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "270.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "271": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "271.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "272": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "272.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "273": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "273.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "274": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "274.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "275": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "275.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "276": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "276.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "277": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "277.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "278": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "278.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "279": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "279.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "280": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "280.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "281": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "281.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "282": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "282.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "283": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "283.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "284": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "284.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "285": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "285.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "286": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "286.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "287": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "287.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "288": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "288.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "289": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "289.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "290": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "290.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "291": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "291.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "292": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "292.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "293": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "293.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "294": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "294.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "295": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "295.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "296": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "296.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "297": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "297.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "298": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "298.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "299": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "299.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "300": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "300.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "301": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "301.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "302": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "302.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "303": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "303.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "304": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "304.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "305": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "305.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "306": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "306.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "307": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "307.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "308": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "308.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "309": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "309.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "310": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "310.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "311": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "311.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "312": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "312.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "313": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "313.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "314": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "314.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "315": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "315.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "316": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "316.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "317": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "317.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "318": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "318.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "319": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "319.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "320": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "320.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "321": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "321.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "322": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "322.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "323": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "323.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "324": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "324.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "325": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "325.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "326": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "326.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "327": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "327.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "328": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "328.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "329": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "329.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "330": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "330.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "331": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "331.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "332": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "332.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "333": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "333.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "334": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "334.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "335": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "335.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "336": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "336.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "337": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "337.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "338": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "338.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "339": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "339.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "340": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "340.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "341": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "341.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "342": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "342.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "343": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "343.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "344": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "344.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "345": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "345.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "346": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "346.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "347": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "347.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "348": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "348.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "349": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "349.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "350": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "350.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "351": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "351.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "352": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "352.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "353": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "353.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "354": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "354.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "355": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "355.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "356": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "356.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "357": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "357.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "358": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "358.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "359": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "359.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "360": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "360.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "361": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "361.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "362": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "362.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "363": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "363.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "364": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "364.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "365": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "365.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "366": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "366.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "367": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "367.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "368": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "368.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "369": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "369.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "370": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "370.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "371": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "371.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "372": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "372.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "373": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "373.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "374": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "374.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "375": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "375.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "376": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "376.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "377": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "377.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "378": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "378.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "379": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "379.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "380": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "380.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "381": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "381.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "382": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "382.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "383": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "383.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "384": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "384.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "385": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "385.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "386": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "386.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "387": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "387.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "388": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "388.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "389": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "389.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "390": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "390.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "391": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "391.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "392": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "392.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "393": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "393.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "394": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "394.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "395": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "395.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "396": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "396.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "397": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "397.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "398": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "398.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "399": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "399.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "400": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "400.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "401": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "401.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "402": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "402.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "403": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "403.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "404": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "404.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "405": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "405.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "406": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "406.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "407": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "407.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "408": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "408.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "409": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "409.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "410": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "410.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "411": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "411.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "412": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "412.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "413": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "413.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "414": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "414.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "415": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "415.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "416": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "416.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "417": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "417.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "418": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "418.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "419": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "419.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "420": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "420.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "421": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "421.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "422": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "422.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "423": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "423.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "424": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "424.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "425": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "425.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "426": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "426.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "427": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "427.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "428": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "428.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "429": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "429.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "430": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "430.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "431": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "431.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "432": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "432.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "433": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "433.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "434": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "434.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "435": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "435.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "436": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "436.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "437": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "437.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "438": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "438.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "439": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "439.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "440": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "440.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "441": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "441.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "442": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "442.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "443": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "443.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "444": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "444.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "445": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "445.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "446": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "446.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "447": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "447.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "448": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "448.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "449": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "449.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "450": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "450.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "451": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "451.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "452": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "452.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "453": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "453.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "454": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "454.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "455": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "455.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "456": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "456.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "457": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "457.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "458": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "458.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "459": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "459.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "460": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "460.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "461": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "461.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "462": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "462.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "463": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "463.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "464": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "464.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "465": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "465.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "466": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "466.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "467": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "467.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "468": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "468.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "469": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "469.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "470": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "470.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "471": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "471.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "472": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "472.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "473": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "473.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "474": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "474.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "475": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "475.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "476": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "476.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "477": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "477.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "478": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "478.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "479": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "479.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "480": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "480.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "481": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "481.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "482": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "482.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "483": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "483.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "484": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "484.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "485": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "485.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "486": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "486.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "487": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "487.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "488": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "488.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "489": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "489.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "490": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "490.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "491": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "491.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "492": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "492.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "493": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "493.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "494": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "494.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "495": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "495.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "496": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "496.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "497": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "497.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "498": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "498.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "499": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "499.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "500": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "500.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "501": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "501.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "502": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "502.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "503": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "503.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "504": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "504.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "505": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "505.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "506": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "506.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "507": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "507.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "508": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "508.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "509": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "509.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "510": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "510.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "511": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "511.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "512": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "512.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "513": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "513.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "514": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "514.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "515": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "515.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "516": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "516.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "517": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "517.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "518": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "518.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "519": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "519.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "520": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "520.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "521": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "521.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "522": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "522.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "523": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "523.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "524": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "524.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "525": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "525.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "526": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "526.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "527": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "527.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "528": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "528.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "529": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "529.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "530": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "530.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "531": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "531.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "532": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "532.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "533": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "533.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "534": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "534.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "535": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "535.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "536": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "536.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "537": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "537.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "538": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "538.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "539": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "539.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "540": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "540.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "541": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "541.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "542": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "542.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "543": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "543.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "544": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "544.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "545": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "545.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "546": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "546.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "547": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "547.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "548": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "548.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "549": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "549.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "550": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "550.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "551": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "551.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "552": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "552.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "553": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "553.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "554": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "554.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "555": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "555.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "556": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "556.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "557": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "557.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "558": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "558.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "559": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "559.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "560": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "560.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "561": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "561.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "562": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "562.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "563": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "563.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "564": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "564.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "565": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "565.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "566": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "566.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "567": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "567.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "568": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "568.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "569": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "569.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "570": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "570.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "571": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "571.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "572": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "572.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "573": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "573.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "574": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "574.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "575": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "575.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "576": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "576.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "577": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "577.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "578": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "578.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "579": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "579.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "580": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "580.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "581": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "581.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "582": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "582.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "583": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "583.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "584": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "584.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "585": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "585.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "586": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "586.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "587": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "587.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "588": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "588.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "589": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "589.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "590": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "590.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "591": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "591.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "592": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "592.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "593": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "593.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "594": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "594.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "595": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "595.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "596": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "596.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "597": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "597.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "598": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "598.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "599": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "599.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "600": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "600.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "601": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "601.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "602": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "602.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "603": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "603.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "604": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "604.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "605": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "605.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "606": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "606.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "607": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "607.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "608": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "608.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "609": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "609.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "610": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "610.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "611": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "611.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "612": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "612.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "613": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "613.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "614": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "614.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "615": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "615.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "616": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "616.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "617": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "617.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "618": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "618.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "619": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "619.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "620": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "620.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "621": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "621.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "622": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "622.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "623": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "623.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "624": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "624.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "625": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "625.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "626": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "626.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "627": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "627.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "628": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "628.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "629": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 1,
+    "image": "629.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "630": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "630.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "631": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "631.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "632": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "632.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "633": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "633.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "634": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "634.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "635": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "635.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "636": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "636.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "637": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "637.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "638": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "638.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "639": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "639.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  },
+  "640": {
+    "question": "Does the image show clear pathological features indicating an underlying disease risk?",
+    "choices": [
+      "yes",
+      "no"
+    ],
+    "answer": 0,
+    "image": "640.png",
+    "answer_type": "CLOSED",
+    "image_organ": "",
+    "solution": ""
+  }
+}
