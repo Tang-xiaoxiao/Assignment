@@ -1,5 +1,4 @@
-```markdown
-# Medthink_Code
+# Assignment_Code
 
 基于 **T5 多模态生成模型** 的医学视觉问答（Medical VQA）项目，支持图像特征提取、闭集问答训练、推理生成，以及多种解释/推理任务设置。
 
@@ -495,4 +494,3 @@ python metric.py \
 ```
 
 ---
-```
